@@ -12,4 +12,4 @@
 *.vsix
 
 # local image
-*.jpeg
+static/*.jpeg
